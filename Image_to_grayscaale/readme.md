@@ -8,11 +8,11 @@ The Second example are is more complex example of converting an image to graysca
 
 
  
-Requirementsi:
+___Requirementsi:___
 Python 3.x
 OpenCV (installed via pip or from source)
 
-Usage:
+___Usage:___
 Place the script in the same directory as the image file you want to convert to grayscale.
 Open a terminal or command prompt in that directory.
 Run the script by entering "python3 scriptname.py" in the terminal/command prompt.
