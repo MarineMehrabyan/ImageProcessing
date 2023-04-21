@@ -2,17 +2,17 @@ __Convert image to grayscale__
 
  Converting an image to grayscale is a common image processing task that involves removing the color information from an image, resulting in a grayscale image where each pixel is represented by a singlevalue corresponding to its brightness level. 
 
-The First example is a simple Python script that uses OpenCV (Open Source Computer Vision Library) to load an image file and convert it to grayscale. The script displays both the original and grayscale images side-by-side.
+__The First example__ is a simple Python script that uses OpenCV (Open Source Computer Vision Library) to load an image file and convert it to grayscale. The script displays both the original and grayscale images side-by-side.
 
-The Second example are is more complex example of converting an image to grayscale using the Applying Adaptive Thresholding.
+__The Second example__ are is more complex example of converting an image to grayscale using the Applying Adaptive Thresholding.
 
 
  
-Requirementsi:
+___Requirementsi:___
 Python 3.x
 OpenCV (installed via pip or from source)
 
-Usage:
+___Usage:___
 Place the script in the same directory as the image file you want to convert to grayscale.
 Open a terminal or command prompt in that directory.
 Run the script by entering "python3 scriptname.py" in the terminal/command prompt.
