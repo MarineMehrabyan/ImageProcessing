@@ -14,7 +14,7 @@ The "adaptive_thresholding.py" is an example code in Python using OpenCV to perf
 
 
 
-____Global Thresholding___
+____Global Thresholding____
 
 The first step is to apply a global threshold value to the image to separate the object of interest from the background. We can choose a threshold value by analyzing the histogram of the grayscale image, which shows the distribution of the pixel intensities.
 We  use the numpy library to compute the histogram of the pixel intensities in the image using the histogram function. We then plot the histogram using matplotlib's pyplot function.
@@ -22,7 +22,7 @@ We  use the numpy library to compute the histogram of the pixel intensities in t
 Next, we use OpenCV's threshold function to determine the threshold value using Otsu's method. Otsu's method is a commonly used method for automatically computing the threshold value based on the histogram of the image. We apply the threshold to the original image using the threshold function with the THRESH_BINARY+THRESH_OTSU flag.
 
 
-____Adaptive Thresholding___
+____Adaptive Thresholding____
 
 The first step to  apply a Gaussian blur to reduce noise in the image. After that, we use the cv2.adaptiveThreshold() function to apply adaptive thresholding. The first argument is the input image, the second argument is the maximum value for the threshold (in this case, 255), the third argument is the type of adaptive thresholding (in this case, cv2.ADAPTIVE_THRESH_MEAN_C), the fourth argument is the type of thresholding (in this case, cv2.THRESH_BINARY), the fifth argument is the size of the adaptive window (in this case, 11), and the sixth argument is the constant used in the threshold formula (in this case, 2).
 
