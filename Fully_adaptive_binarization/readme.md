@@ -1,18 +1,22 @@
 ____Fully adaptive image binarization____
+
 This Python script applies image thresholding to a set of input images using adaptive thresholding. It uses OpenCV and NumPy libraries for image processing.
 
 ____Requirements____
+
 Python 3.x
 OpenCV
 NumPy
 
 ____Installation____
+
 You can install OpenCV and NumPy using pip:
 -pip install opencv-python-
 -pip install numpy-
 
 
 ____Usage____
+
 1. Place your input images (in .jpg, .jpeg, or .png format) in the same directory as the script.
 2. Modify the kernel_sizes and k_values variables to adjust the range of values to try.
 3. Run the script using the command -python3 main.py-
