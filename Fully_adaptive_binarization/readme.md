@@ -11,15 +11,15 @@ NumPy
 ____Installation____
 
 You can install OpenCV and NumPy using pip:
--pip install opencv-python-
--pip install numpy-
+_pip install opencv-python
+pip install numpy_
 
 
 ____Usage____
 
 1. Place your input images (in .jpg, .jpeg, or .png format) in the same directory as the script.
 2. Modify the kernel_sizes and k_values variables to adjust the range of values to try.
-3. Run the script using the command -python3 main.py-
+3. Run the script using the command _python3 main.py_
 4. The script will iterate over all images in the directory, apply adaptive thresholding, and display the original and thresholded images.
 
 ____Explanation____
