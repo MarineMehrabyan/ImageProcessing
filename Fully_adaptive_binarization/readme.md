@@ -11,7 +11,6 @@ NumPy
 ____Installation____
 
 You can install OpenCV and NumPy using pip:
-
 _pip install opencv-python_
 _pip install numpy_
 
