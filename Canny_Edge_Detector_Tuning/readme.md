@@ -1,4 +1,4 @@
-______The Canny edge detector ______
+# The Canny edge detector
 
 The Canny edge detector is a popular edge detection algorithm used in computer vision and image processing. It works by first smoothing the image to reduce noise and then calculating the gradient of the image intensity to find the edges. 
 
