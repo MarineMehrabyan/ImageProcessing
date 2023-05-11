@@ -10,20 +10,21 @@ Feel free to use this code for educational purposes or to expand upon it.
 2. Basic Transformation
 3. Perspective Transformation
 4. Grayscale to binary
-5. Filters for Red, Green, and Blue
-6. Extract Channels of an Image
-7. Fully Adaptive Image Binarization
-8. Noise Reduction for Binarized Images
-9. Reading Straight Barcodes
-10. Parallel Processing for Adaptive Binarization
-11. Mean, Gaussian Blur, Median, Min, Max, Sharp, Unsharp Filters
-12. Better Processing of Shaded Text Image
-13. Contrast Adjustment
-14. Compute and Show Histograms
-15. Histogram Stretching
-16. Histogram Equalization
-17. Histogram Matching
-18. Adaptive Histogram Equalization
-19. Canny Edge Detector Tuning
-20. Successive Rotations
-21. Interpolations
+5. Shading Correction
+6. Filters for Red, Green, and Blue
+7. Extract Channels of an Image
+8. Fully Adaptive Image Binarization
+9. Noise Reduction for Binarized Images
+10. Reading Straight Barcodes
+11. Parallel Processing for Adaptive Binarization
+12. Mean, Gaussian Blur, Median, Min, Max, Sharp, Unsharp Filters
+13. Better Processing of Shaded Text Image
+14. Contrast Adjustment
+15. Compute and Show Histograms
+16. Histogram Stretching
+17. Histogram Equalization
+18. Histogram Matching
+19. Adaptive Histogram Equalization
+20. Canny Edge Detector Tuning
+21. Successive Rotations
+22. Interpolations
