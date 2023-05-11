@@ -24,3 +24,4 @@ Feel free to use this code for educational purposes or to expand upon it.
 16. Adaptive Histogram Equalization
 17. Canny Edge Detector Tuning
 18. Successive Rotations
+19. Interpolations
